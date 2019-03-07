@@ -1,0 +1,35 @@
+.body{
+    width: 33.33%;
+    padding: 50px;
+    clear: both;
+    margin: auto;
+}
+
+img{
+    position: relative;
+    display: inline-block;
+    margin: 20px;
+    padding: 50px;
+}
+
+.gifarea{
+    align-content: center;
+    text-align: center;
+}
+
+.card{
+    margin: auto;
+}
+
+.input-group-text{
+    margin:auto;
+}
+.gifarea{
+    display: inline-block;
+}
+
+.input-group {
+    margin: auto;
+    display: grid;
+    align-content: center;
+}
